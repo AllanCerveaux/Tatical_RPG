@@ -1,4 +1,4 @@
-# [tatical_rpg](https://example.com/)
+# [Tatical RPG](https://example.com/)
 
 ![Screenshot](screenshot.png)
 
