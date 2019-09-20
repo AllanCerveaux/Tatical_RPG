@@ -1,0 +1,62 @@
+{ "height":8,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+         "height":8,
+         "id":1,
+         "name":"basement_layer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0,
+         "active": false
+        }, 
+        {
+         "data":[7, 4, 6, 6, 7, 6, 6, 4, 4, 4, 4, 6, 6, 6, 4, 4, 4, 4, 4, 1, 2, 4, 4, 4, 13, 13, 13, 19, 20, 13, 13, 13, 13, 13, 13, 21, 22, 13, 13, 13, 4, 4, 4, 3, 1, 4, 4, 4, 4, 4, 4, 4, 6, 6, 4, 4, 4, 4, 4, 6, 7, 6, 6, 7],
+         "height":8,
+         "id":2,
+         "name":"ground_layer",
+         "offsetx":0,
+         "offsety":-8,
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0,
+         "active": true
+        }, 
+        {
+         "data":[0, 27, 0, 0, 0, 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":3,
+         "name":"decoration_layer",
+         "offsetx":0,
+         "offsety":-15,
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0,
+         "active": false
+        }],
+ "nextlayerid":4,
+ "nextobjectid":1,
+ "orientation":"isometric",
+ "renderorder":"left-up",
+ "tiledversion":"1.2.4",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"tilesets\/IsoTacticsTileset.tsx"
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":1.2,
+ "width":8
+}

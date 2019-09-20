@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="isometric" renderorder="left-up" width="8" height="8" tilewidth="32" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="tilesets/IsoTacticsTileset.tsx"/>
+ <layer id="1" name="basement_layer" width="8" height="8">
+  <data encoding="csv">
+1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1
+</data>
+ </layer>
+ <layer id="2" name="ground_layer" width="8" height="8" offsetx="0" offsety="-8">
+  <data encoding="csv">
+7,4,6,6,7,6,6,4,
+4,4,4,6,6,6,4,4,
+4,4,4,1,2,4,4,4,
+13,13,13,19,20,13,13,13,
+13,13,13,21,22,13,13,13,
+4,4,4,3,1,4,4,4,
+4,4,4,4,6,6,4,4,
+4,4,4,6,7,6,6,7
+</data>
+ </layer>
+ <layer id="3" name="decoration_layer" width="8" height="8" offsetx="0" offsety="-15">
+  <data encoding="csv">
+0,27,0,0,0,0,0,0,
+27,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,27,
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,
+27,0,0,0,0,0,0,27,
+0,0,0,0,0,0,0,0,
+26,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
